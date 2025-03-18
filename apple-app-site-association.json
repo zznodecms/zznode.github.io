@@ -1,0 +1,11 @@
+{
+"applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "MT3JHFDS5T.com.ztzljj.ztzl",
+                "paths": [ "/link/*","/apple-app-site-association"  ]
+            }
+        ]
+    }
+}
